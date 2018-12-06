@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Мои заметки</string>
+    <string name="menu_item_new_note">Добавить заметку</string>
+    <string name="save">Сохранить</string>
+    <string name="enter_title">Введите название</string>
+    <string name="enter_content">Введите заметку</string>
+    <string name="delete">Удалить</string>
+    <string name="menu_item_settings">Настройки</string>
+    <string name="small">Маленький</string>
+    <string name="big">Большой</string>
+    <string name="medium">Средний</string>
+    <string name="choose_text_size">Выберите размер текста</string>
+</resources>
