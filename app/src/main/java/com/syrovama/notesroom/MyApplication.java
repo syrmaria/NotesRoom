@@ -5,7 +5,7 @@ import android.app.Application;
 import android.arch.persistence.room.Room;
 
 public class MyApplication extends Application {
-    public NoteDatabase mNoteDatabase;
+    private NoteDatabase mNoteDatabase;
 
     @Override
     public void onCreate() {
